@@ -1,17 +1,24 @@
 # JavaScript in version ES5 i ES6 
 # Case Study - Game - One-armed bandit [OOP,CSS,JS] 
 
-
-In this project I used Object-oriented programming. 
-
+In this project I used Object-oriented programming with 5 diffrent Classes. Map of the app below: 
 
 
-- 5 Different Class 
+<img src= "images/img.png" width=840px>
 
 
 
 
-CSS:
+
+
+
+
+
+
+
+CSS: 
+
+Not much here. Used Flex and @media for 1024px
 
 
 
