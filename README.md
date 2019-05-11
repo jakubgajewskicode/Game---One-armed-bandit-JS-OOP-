@@ -5,7 +5,6 @@
 In this project I used Object-oriented programming. 
 
 
-./Modeling Game Project
 
 - 5 Different Class 
 
